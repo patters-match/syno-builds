@@ -44,7 +44,7 @@ export DL_PATH="https://sourceforge.net/projects/dsgpl/files/DSM%206.0.2%20Tool%
 
 
 #----------------------------------------------------
-#-----NOW PASTE ONE OF THE FOLLOWING 6 BLOCKS TO THE TERMINAL, DEPENDING ON YOUR TARGET CPU TYPE
+#-----NOW PASTE ONE OF THE FOLLOWING 7 BLOCKS TO THE TERMINAL, DEPENDING ON YOUR TARGET CPU TYPE
 #-----Marvell Kirkwood mv6281/mv6282 (ARMv5te)
 #-----Marvell Armada 370/XP (ARMv7l FPU)
 #-----Marvell Armada 375/385, Mindspeed Comcerto 2000, ST Microelectronics STiH412, Annapurna Labs Alpine AL-314, AL-514, & AL-212 (ARM Cortex-A9 NEON)
